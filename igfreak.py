@@ -22,6 +22,7 @@
 import os
 import sys
 import marshal
+import random
 try:
 	import requests,socks
 except Exception:
